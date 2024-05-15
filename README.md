@@ -16,6 +16,12 @@ Steps:
 
 7.Visualization: Visualize model predictions and explore misclassified images.
 
+Dataset link: https://www.kaggle.com/datasets/l33tc0d3r/indian-food-classification
+
+Accuracy:
+
+Using CNN: 70%
+
 Tech Stack:
 
 *Python
